@@ -1,0 +1,54 @@
+.description{
+	text-align: center;
+	font-size: 36px;
+}
+.description_1{
+	text-align: center;
+	font-size: 36px;
+	margin-top: 100px;
+}
+.foto{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.logotip{
+	width: 330px;
+	background-size: cover;
+	margin: 20px;
+}
+.flyer{
+	width: 330px;
+	height: 460px;
+	margin: 20px;
+	background-size: cover;
+}
+.card{
+	width: 583px;
+	height: 320px;
+	margin: 20px;
+	background-size: cover;
+}
+.card1{
+	width: 583px;
+	height: 320px;
+	margin: auto
+	
+}
+.card_1{
+	width: 583px;
+	height: 320px;
+	background-size: cover;
+}
+
+.covers{
+	width: 655px;
+	height: 283px;
+	margin: 5px;
+	background-size: cover;
+}
+.card_WB{
+	width:330px ;
+	height: 460px;
+	margin: 20px;
+}

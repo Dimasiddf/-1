@@ -1,0 +1,138 @@
+@media (max-width:1280px) {	
+	.logotip{
+		width: 319px;
+		margin: 5px;
+		background-size: cover;
+	}
+	.flyer{
+		width: 310px;
+		height: 450px;
+		margin: 5px;
+		background-size: cover;
+	}
+	.card{
+		width: 481px;
+		height: 250px;
+		margin: 5px;
+		background-size: cover;
+	}
+	.card1{
+		width: 481px;
+		height: 250px;
+		margin: auto;
+	}
+	.card_1{
+		width: 481px;
+		height: 250px;
+		background-size: cover;
+		margin-top: 5px;
+	}
+	.covers{
+		width: 485px;
+		height: 206px;
+		margin: 5px;
+		background-size: cover;
+	}
+}
+
+
+@media (max-width:1024px) {	
+	.logotip{
+		width:242px ;
+		background-size: cover;
+	}
+	.flyer{
+		width: 238px;
+		height: 380px;
+		background-size: cover;
+	}
+	.card{
+		width: 368px;
+		height: 190px;
+		background-size: cover;
+	}
+	.card1{
+		width: 368px;
+		height: 190px;
+		background-size: cover;
+	}
+	.card_1{
+		width: 368px;
+		height: 190px;
+		background-size: cover;
+	}
+	.covers{
+		width: 368px;
+		height: 190px;
+		background-size: cover;
+	}
+}
+
+
+@media (max-width:788px) {
+	.logotip{
+		width: 214px;
+		background-size: cover;
+	}
+	.flyer{
+		width: 214px;
+		height: 312px;
+		background-size: cover;
+	}
+	.card{
+		width:214px ;
+		height: 137px;
+		background-size: cover;
+	}
+	.card1{
+		width: 214px;
+		height: 137px;
+	}
+	.card_1{
+		width: 214px;
+		height: 137px;
+		background-size: cover;
+	}
+	.covers{
+		width: 214px;
+		height: 126px;
+	}
+	.card_WB{
+		width: 214px;
+		height: 320px;
+		margin: 3px;
+	}
+
+}
+
+
+@media (max-width:480px) {
+	.header_text{
+		font-size: 28px ;
+	}
+	.logotip{
+		margin: 5px auto;
+	}
+	.flyer{
+		margin: 5px auto;
+	}
+	.card{
+		margin: 5px auto;
+		height: 102px;
+	}
+	.covers{
+		margin: 5px auto;
+	}
+	.menu{
+		display: block;
+	}
+	.card_WB{
+		width: 214px;
+		height: 248px ;
+		margin: 5px auto;
+	}
+}
+
+
+@media (max-width:320px) {
+}
