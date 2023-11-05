@@ -81,7 +81,7 @@
 	}
 	.card{
 		width:214px ;
-		height: 137px;
+		height: 1137px;
 		background-size: cover;
 	}
 	.card1{
@@ -121,6 +121,11 @@
 		height: 105px;
 		width:228px;
 	}
+	.card1{
+		height:105px;
+		width:105px;
+		margin:5px auto;
+	}
 	.covers{
 		margin: 5px auto;
 		height:105px;
@@ -130,8 +135,8 @@
 		display: block;
 	}
 	.card_WB{
-		width: 204px;
-		height: 245px ;
+		width: 203px;
+		height: 267px ;
 		margin: 5px auto;
 	}
 }
